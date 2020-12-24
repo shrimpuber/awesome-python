@@ -16,5 +16,6 @@ Your contributions are always welcome!
 * Don't mention `Python` in the description as it's implied.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
-
 Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submits it for you.**
+
+Bitte sende eine Email an Lieblingskollege
